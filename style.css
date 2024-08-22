@@ -1,21 +1,8 @@
-body {
-    font-family: sans-serif;
-    line-height: 1.5;
-  
-    background-color: #edfcf9d8;
-    color: #2e2828;
-  
-    width: 980px;
-    margin: 0 auto;
-  }
-  
-  h1 {
-    text-align: center;
-    font-size: 36px;
-    margin-bottom: 0;
-  }
-  
-  main > h2 {
-    text-align: center;
-    font-size: 25px;
-  }
+.head {
+position: absolute;
+width: 595px;
+height: 257px;
+left: 0px;
+top: 0px;
+background-image: url();
+}
